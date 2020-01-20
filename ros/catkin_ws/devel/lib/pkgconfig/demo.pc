@@ -1,0 +1,8 @@
+prefix=/home/wick/AD-simulator-master/ros/catkin_ws/devel
+
+Name: demo
+Description: Description of demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wick/AD-simulator-master/ros/catkin_ws/devel/lib 
+Requires: 

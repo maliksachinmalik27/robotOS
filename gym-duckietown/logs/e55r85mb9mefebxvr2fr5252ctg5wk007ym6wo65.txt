@@ -1,0 +1,15 @@
+time=1575358049.1954656 gym-duckietown 2019.0.0
+
+time=1575358049.3749273 Registering gym environment id: Duckietown-loop_obstacles-v0
+time=1575358049.3750331 Registering gym environment id: Duckietown-straight_road_no_start_tile-v0
+time=1575358049.3750985 Registering gym environment id: Duckietown-zigzag_dists-v0
+time=1575358049.3751588 Registering gym environment id: Duckietown-small_loop_cw-v0
+time=1575358049.3752148 Registering gym environment id: Duckietown-straight_road-v0
+time=1575358049.375273 Registering gym environment id: Duckietown-straight_road_10_tiles_no_start_tile-v0
+time=1575358049.3753293 Registering gym environment id: Duckietown-4way-v0
+time=1575358049.3753872 Registering gym environment id: Duckietown-small_loop-v0
+time=1575358049.375443 Registering gym environment id: Duckietown-udem1-v0
+time=1575358049.3755 Registering gym environment id: Duckietown-loop_empty-v0
+time=1575358049.3755577 Registering gym environment id: Duckietown-loop_dyn_duckiebots-v0
+time=1575358049.3756135 Registering gym environment id: Duckietown-loop_pedestrians-v0
+/usr/bin/python3.7: No module named gym_duckietown.tasks.ride_1_m.solutions.ride_1_m

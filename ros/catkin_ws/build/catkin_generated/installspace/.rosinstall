@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wick/AD-simulator-master/ros/catkin_ws/install/setup.sh
